@@ -1,4 +1,4 @@
-# Intro-to-Autopsy-Browser
+# Intro-to-Autopsy-Browser 
 
 ## Objective
 This is to introduce myself to Autopsy, getting familiar with creating a
